@@ -1,0 +1,502 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*common start*/
+.c_padd {
+    padding: 25px 0 40px;
+}
+/*header start*/
+header {
+    margin: 10px 0 20px;
+}
+.h_item ul li a {
+    margin-bottom: -15px;
+}
+/*header end*/
+/*banner start*/
+.b_h1 {
+    font-size: 25px;
+    line-height: 45px;
+}
+.b_p {
+    margin: 5px 0 10px;
+    line-height: 25px;
+}
+.b_btn {
+    width: 130px;
+    height: 40px;
+}
+/*banner end*/
+/*service start*/
+.s_h1 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.s_p {
+    margin: 10px 0 40px;
+    line-height: 25px;
+}
+.mar_text {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.mar_h2 {
+    font-size: 16px;
+    line-height: 25px;
+}
+.mar_p {
+    margin-top: 0px;
+    line-height: 25px;
+}
+.s2_h3 img {
+    margin-left: -65%;
+    margin-top: -79%;
+}
+.icon img {
+    width: 50px !important;
+    margin-left: 40%;
+}
+.s2_h3 {
+    font-size: 16px;
+    line-height: 25px;
+}
+.s2_p {
+    margin: 10px 0 25px;
+    line-height: 25px;
+}
+.s2_item ul li a {
+    padding-right: 5px;
+}
+.s2_item ul li a img {
+     width: 40px !important;
+    margin: 25px 0 0px;
+}
+/*service end*/
+/*meet start*/
+.m_h2 {
+    font-size: 18px;
+    line-height: 30px;
+}
+ .m_p {
+    font-size: 14px;
+    line-height: 25px;
+}
+/*meet end*/
+/*others start*/
+.mr_text {
+    margin-bottom: 30px;
+    text-align: center;
+}
+/*others start*/
+/*choice start*/
+.ch_p {
+    margin-bottom: 25px;
+    font-size: 18px;
+    line-height: 25px;
+}
+.ch_h1 {
+    padding-top: 20px;
+    padding-right: 0px;
+    font-size: 20px;
+    line-height: 35px;    
+    text-align: center;
+}
+.choice_p {
+    margin: 10px 0 10px;
+    padding-right: 0px;
+    text-align: center;
+}
+.ch_text ul li {
+    margin-right: 40px !important;
+    line-height: 35px;
+}
+.ch_text ul li:nth-of-type(3) {
+    margin-right: 66px !important;
+}
+.ch_img {
+    padding-top: 0px;
+}
+/*choice start*/
+/*pupolar start*/
+.p_item1 {
+    padding-bottom: 30px;
+}
+.p_item2 {
+    padding-bottom: 30px;
+}
+.p_item3 {
+    padding-bottom: 30px;
+}
+.s_h1 {
+    font-size: 18px;
+    line-height: 30px;
+}
+.p_h2 {
+    margin: 10px 0 10px;
+    padding-right: 0px;
+    font-size: 19px;
+}
+.p_p {
+    padding-right: 0px;
+    line-height: 25px;
+}
+.p_h1 {
+    text-align: center;
+    font-size: 19px;
+}
+.img_h1 {
+    margin-left: 10px;
+    padding: 120px 0 50px;
+    font-size: 18px;
+}
+}
+/*pupolar start*/
+
+ 
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*common start*/
+.c_padd{
+	padding: 30px 0 50px;
+}
+/*common start*/
+/*header start*/
+header {
+    margin: 15px 0 30px;
+}
+.h_item ul li a {
+    margin-bottom: -10px;
+}
+/*header end*/
+/*banner start*/
+.b_h1 {
+    font-size: 30px;    
+    line-height: 50px;
+}
+.b_p {
+    margin: 10px 0 20px;
+    line-height: 25px;
+}
+.b_btn {
+    width: 140px;
+    height: 45px;
+}
+/*banner end*/
+/*service start*/
+.s_h1 {   
+    font-size: 25px;   
+    line-height: 40px;
+}
+.s_p {
+    margin: 10px 0 50px;
+    line-height: 25px;
+}
+.mar_text {
+    margin-bottom: 40px;
+}
+.mar_h2 {
+    font-size: 16px;
+    line-height: 25px;
+}
+.mar_p {
+    margin-top: 0px;
+    line-height: 25px;
+}
+.s2_h3 img {
+    margin-left: -75%;
+    margin-top: -53%;
+}
+.s2_h3 img {
+    margin-left: -76%;
+    margin-top: -53%;
+}
+.s2_h3 {   
+    font-size: 18px;
+    line-height: 30px;
+}
+.s2_p {
+    margin: 10px 0 40px;
+    line-height: 25px;
+}
+.s2_item ul li a {
+    padding-right: 10px;
+}
+.s2_item ul li a img {
+    width: 80px !important;
+    margin: 40px 0 0px;
+}
+/*service end*/
+/*meet start*/
+.m_h2 {
+    font-size: 20px;    
+    line-height: 30px;
+ }
+ .m_p {
+    font-size: 16px;    
+    line-height: 25px;
+}
+/*meet end*/
+/*choice start*/
+.ch_p {
+    margin-bottom: 25px;
+    font-size: 18px;
+    line-height: 25px;
+}
+.ch_h1 {
+    padding-top: 20px;
+    padding-right: 0px;
+    font-size: 20px;
+    line-height: 35px;
+}
+.choice_p {
+    margin: 10px 0 15px;
+    padding-right: 0px;
+}
+.ch_text ul li {
+    margin-right: 40px !important;
+    line-height: 35px;
+}
+.ch_text ul li:nth-of-type(3) {
+    margin-right: 66px !important;
+}
+.ch_img {
+    padding-top: 0px;
+}
+/*choice start*/
+/*pupolar start*/
+.p_item1 {
+    padding-bottom: 30px;
+}
+.p_item2 {
+    padding-bottom: 30px;
+}
+.p_item3 {
+    padding-bottom: 30px;
+}
+.p_h2 {
+    margin: 10px 0 10px;
+    padding-right: 0px;
+    font-size: 19px;
+}
+.p_p {
+    padding-right: 0px;
+    line-height: 25px;
+}
+.p_h1 {
+    text-align: center;
+    font-size: 19px;
+}
+.img_h1 {
+    margin-left: 10px;   
+    padding: 200px 0 80px;    
+    font-size: 18px;
+}
+/*pupolar start*/
+
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*common start*/
+.c_padd {
+    padding: 20px 0 40px;
+}
+/*header start*/
+header {
+    margin: 20px 0 40px;
+}
+/*banner start*/
+.b_h1 {    
+    font-size: 35px;
+    line-height: 60px;  
+}
+.b_p {
+    margin: 15px 0 30px;
+    line-height: 30px;
+}
+.b_btn {
+    width: 145px;
+    height: 50px;
+}
+/*banner end*/
+/*service start*/
+.s_h1 {   
+    font-size: 25px;   
+    line-height: 40px;
+}
+.s_p {
+    margin: 15px 0 70px;
+    line-height: 25px;
+}
+.mar_h2 {
+    font-size: 16px;
+    line-height: 25px;
+}
+.mar_p {
+    margin-top: 0px;
+    line-height: 25px;
+}
+.mar_text {
+    margin-bottom: 70px;
+}
+.s2_h3 {   
+    font-size: 20px;
+    line-height: 30px;
+}
+.s2_p {
+    margin: 10px 0 55px;
+    line-height: 25px;
+}
+.s2_h3 img {
+    margin-left: -43%;
+    margin-top: -23%;
+}
+.s2_item ul li a {
+    padding-right: 30px;
+}
+.s2_item ul li a img {
+    margin: 45px 0 0px;
+}
+/*service end*/
+/*meet start*/
+.m_h2 {
+    font-size: 18px;    
+    line-height: 30px;
+ }
+ .m_p {
+    font-size: 14px;    
+    line-height: 25px;
+}
+/*meet end*/
+/*choice start*/
+.ch_p {
+    margin-bottom: 25px;
+    font-size: 18px;
+    line-height: 25px;
+}
+.ch_h1 {
+    padding-top: 20px;
+    padding-right: 0px;
+    font-size: 25px;
+    line-height: 40px;
+}
+.choice_p {
+    margin: 10px 0 20px;
+    padding-right: 50px;
+}
+.ch_text ul li {
+    margin-right: 0px !important;
+    line-height: 35px;
+}
+.ch_text ul li:nth-of-type(3) {
+    margin-right: 27px !important;
+}
+.ch_img {
+    padding-top: 0px;
+}
+/*choice start*/
+/*pupolar start*/
+.p_h2 {
+    margin: 10px 0 10px;
+    padding-right: 0px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.p_p {
+    padding-right: 0px;
+    line-height: 25px;
+}
+.p_h1 {
+    padding: 0px 0px 0px 0px;
+    font-size: 18px;    
+    line-height: 30px;
+}
+.img_h1 {
+    margin-left: 5px;
+    padding: 80px 0 30px;    
+    font-size: 18px;
+    font-weight: 700;
+}
+/*pupolar start*/ 
+/*subcribe*/
+.sub_h1 {    
+    font-size: 20px;
+}
+.c_input {    
+    padding: 10px 60px 10px 10px;
+}
+.c_Subscribe {
+     padding: 5px 10px;
+}
+/*footer start*/
+footer {
+    padding-top: 30px;
+}
+.f_logo img {
+    width: 100px !important;
+}
+.f_cp {
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+.f_item ul li {
+    padding-bottom: 15px;
+}
+
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+.c_padd {
+    padding: 30px 0 55px;
+}
+/*banner start*/
+.b_h1 {   
+    font-size: 38px;
+}
+/*service start*/
+.s_h1 {
+    font-size: 25px;
+}
+.s2_h3 img {
+    margin-left: -14%;
+    margin-top: -44%;
+}
+.s2_item ul li a {
+    padding-right: 90px;
+}
+/*choice start*/
+.ch_h1 {
+    margin-top: 40px;
+    padding-right: 0px;   
+    font-size: 30px;    
+    line-height: 50px;
+}
+.choice_p {    
+    padding-right: 0px;    
+}
+.ch_text ul li {
+    margin-right: 40px !important;
+}
+.ch_text ul li:nth-of-type(3) {
+    margin-right: 67px !important;
+}
+/*subcribe start*/
+.sub_h1 {
+    font-size: 24px;
+    line-height: 35px;
+}
+.c_input {
+    padding: 15px 90px 15px 15px;
+}
+/*footer start*/
+.f_logo img {
+    width: 130px !important;
+}
+}
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	
+}
+/* Extra Extra large devices (large desktops, 1400px and up)*/ 
+@media (min-width: 1400px) {  
+}
